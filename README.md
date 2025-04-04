@@ -20,10 +20,10 @@ The dataset used in this project is typically a `.csv` file containing customer 
 * Account information (contract type, payment method, etc.)
 * Churn status (yes/no).
 
-(Please ensure to specify the data source, and any specifics regarding the data cleaning or preprocessing if significant)
+
 
 ## Project Structure
-Markdown
+
 
 # Telco Customer Churn Prediction
 
@@ -47,7 +47,7 @@ The dataset used in this project is typically a `.csv` file containing customer 
 * Account information (contract type, payment method, etc.)
 * Churn status (yes/no).
 
-(Please ensure to specify the data source, and any specifics regarding the data cleaning or preprocessing if significant)
+
 
 ## Project Structure
 
